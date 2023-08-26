@@ -1,1 +1,44 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Illuminance - Đo ánh sáng Lux</string>
+    <string name="action_info">Thông tin</string>
+    <string name="action_upgrade">Nâng cấp (không QC)</string>
+    <string name="action_remove_ads">Bỏ quảng cáo</string>
+    <string name="action_share_to">Chia sẻ</string>
+    <string name="action_other_apps">Ứng dụng khác</string>
+    <string name="txt_communicate">Giao tiếp</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Huỷ</string>
+    <string name="btn_close">Đóng</string>
+    <string name="txt_min">Thấp</string>
+    <string name="txt_max">Cao</string>
+    <string name="txt_average">T.Bình</string>
+    <string name="txt_lux">Độ sáng (lx)</string>
+    <string name="txt_second">Giây</string>
+    <string name="txt_good">Tốt</string>
+    <string name="txt_not_enough">Không đủ ánh sáng</string>
+    <string name="txt_too_much">Quá nhiều ánh sáng</string>
+    <string name="txt_day_light">Ánh sáng ban ngày</string>
+    <string name="txt_light_sensor_not_found">Không tìm thấy cảm biến ánh sáng trên thiết bị của bạn.</string>
+    <string name="txt_light_sensor_not_found_explain">Ứng dụng chỉ hoạt động trên các thiết bị có hỗ trợ cảm biến ánh sáng. Nó được dùng để đo cường độ ánh sáng.</string>
+    <string name="txt_share_text">%s là ứng dụng đo cường độ ánh sáng (lx) môi trường nhỏ gọn và hiệu quả, giúp đo ánh sáng phòng học, phòng làm việc, v.v \nTải về: %s</string>
+    <string name="txt_living_room">Phòng khách</string>
+    <string name="txt_child_room">Phòng trẻ em</string>
+    <string name="txt_study_room">Phòng học</string>
+    <string name="txt_dining_room">Phòng ăn</string>
+    <string name="txt_kitchen">Nhà bếp</string>
+    <string name="txt_bedroom">Phòng ngủ</string>
+    <string name="txt_bathroom">Phòng tắm</string>
+    <string name="txt_office">Văn phòng</string>
+    <string name="txt_corridors_stairs">Hành lang/Cầu thang</string>
+    <string name="txt_entrance_inside">Lối đi (bên trong nhà)</string>
+    <string name="txt_entrance_outside">Lối đi (bên ngoài)</string>
+    <string name="txt_toilet">Phòng vệ sinh</string>
+    <string name="pref_feedback_title">Phản hồi</string>
+    <string name="pref_version_title">Phiên bản</string>
+    <string name="pref_localization">Bản địa hoá</string>
+    <string name="pref_contributor_title">Đóng góp</string>
+    <string name="pref_translate_summary">Đóng góp bản dịch đa ngôn ngữ</string>
+    <string name="pref_privacy">Chính sách bảo mật</string>
+    <string name="pref_open_source_licenses">Giấy phép nguồn mở</string>
+</resources>
