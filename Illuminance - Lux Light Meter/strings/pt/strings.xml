@@ -1,1 +1,44 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Iluminância - Medidor de Luz Lux</string>
+    <string name="action_info">Informações</string>
+    <string name="action_remove_ads">Remover propagandas</string>
+    <string name="action_share_to">Compartilhar com</string>
+    <string name="action_other_apps">Outros aplicativos</string>
+    <string name="txt_communicate">Comunicar</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_close">Fechar</string>
+    <string name="txt_min">mín</string>
+    <string name="txt_max">máx</string>
+    <string name="txt_average">Média</string>
+    <string name="txt_lux">"Luzes (lx) "</string>
+    <string name="txt_second">Segundo</string>
+    <string name="txt_good">Bom</string>
+    <string name="txt_not_enough">"Não basta "</string>
+    <string name="txt_too_much">Muito demais</string>
+    <string name="txt_day_light">"Dia da Luz "</string>
+    <string name="txt_light_sensor_not_found">Sensor de luz não encontrado no seu dispositivo!</string>
+    <string name="txt_light_sensor_not_found_explain">O aplicativo funciona apenas em dispositivos que possuem um sensor de luz. É usado para medir a intensidade da luz.</string>
+    <string name="txt_share_text">%s é um medidor de luz para medir a quantidade de luz em um espaço/em uma determinada superfície de trabalho.\\n%s</string>
+    <string name="txt_living_room">Sala de estar</string>
+    <string name="txt_child_room">quarto infantil</string>
+    <string name="txt_study_room">Sala de estudo</string>
+    <string name="txt_dining_room">Sala de jantar</string>
+    <string name="txt_kitchen">Cozinha</string>
+    <string name="txt_bedroom">Quarto</string>
+    <string name="txt_bathroom">Banheiro</string>
+    <string name="txt_office">Escritório</string>
+    <string name="txt_corridors_stairs">Corredores/Escadas</string>
+    <string name="txt_entrance_inside">Entrada (dentro)</string>
+    <string name="txt_entrance_outside">Entrada (fora)</string>
+    <string name="txt_toilet">Banheiro</string>
+    <string name="pref_feedback_title">Opinião</string>
+    <string name="pref_version_title">Versão</string>
+    <string name="pref_localization">Localização</string>
+    <string name="pref_contributor_title">Contribuinte</string>
+    <string name="pref_translate_summary">Ajude-nos a traduzir o aplicativo para o seu idioma</string>
+    <string name="pref_privacy">Política de Privacidade</string>
+    <string name="pref_open_source_licenses">Licença de código aberto</string>
+    <string name="action_upgrade">Versão sem anúncios</string>
+</resources>
