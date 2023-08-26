@@ -1,1 +1,43 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Iluminancia - Medidor de luz Lux</string>
+    <string name="action_info">Información</string>
+    <string name="action_remove_ads">Quitar anuncios</string>
+    <string name="action_share_to">Compartir a</string>
+    <string name="action_other_apps">Otras aplicaciones</string>
+    <string name="txt_communicate">Comunicar</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_close">Cerca</string>
+    <string name="txt_min">Mín</string>
+    <string name="txt_max">máx</string>
+    <string name="txt_average">Promedio</string>
+    <string name="txt_lux">Luz (lx)</string>
+    <string name="txt_second">Segundo</string>
+    <string name="txt_good">Bien</string>
+    <string name="txt_not_enough">No es suficiente</string>
+    <string name="txt_too_much">Demasiado</string>
+    <string name="txt_day_light">luz de dia</string>
+    <string name="txt_light_sensor_not_found">¡Sensor de luz no encontrado en su dispositivo!</string>
+    <string name="txt_light_sensor_not_found_explain">La aplicación solo funciona en dispositivos que tienen un sensor de luz. Se utiliza para medir la intensidad de la luz.</string>
+    <string name="txt_share_text">%s es un medidor de luz para medir la cantidad de luz en un espacio/en una superficie de trabajo particular.\\n%s</string>
+    <string name="txt_living_room">Sala de estar</string>
+    <string name="txt_child_room">Cuarto de los niños</string>
+    <string name="txt_study_room">Sala de estudio</string>
+    <string name="txt_dining_room">Comedor</string>
+    <string name="txt_kitchen">Cocina</string>
+    <string name="txt_bedroom">Dormitorio</string>
+    <string name="txt_bathroom">Baño</string>
+    <string name="txt_office">Oficina</string>
+    <string name="txt_corridors_stairs">Pasillos/Escaleras</string>
+    <string name="txt_entrance_inside">Entrada (adentro)</string>
+    <string name="txt_entrance_outside">Entrada (exterior)</string>
+    <string name="pref_feedback_title">Comentario</string>
+    <string name="pref_version_title">Versión</string>
+    <string name="pref_localization">Localización</string>
+    <string name="pref_contributor_title">Contribuyente</string>
+    <string name="pref_translate_summary">Ayúdanos a traducir la aplicación a tu idioma</string>
+    <string name="pref_privacy">Política de privacidad</string>
+    <string name="pref_open_source_licenses">Licencia de código abierto</string>
+    <string name="action_upgrade">Versão Ad-free</string>
+</resources>
